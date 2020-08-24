@@ -56,8 +56,6 @@ Get started by watching the interview with [Linus Torwalds, The Mind Behind Linu
 - Customize your terminal with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - Use [Bat](https://github.com/sharkdp/bat), Cat with wings
 - [Vim Tutorials](https://www.youtube.com/watch?v=zIzdp3EciiY&vl=en) on how to get out of it
-### Facing any issues?
-Feel free to [open an issue](https://github.com/clubgamma/intro-git-github/issues/new) or contact the core team. We are glad to help you. :heart:
 
 ## Commands used during workshop :computer:	| :desktop_computer: :keyboard:
 ```
@@ -133,3 +131,5 @@ git merge <branch-to-merge>
 git merge --abort
 ```
 
+### Facing any issues?
+Feel free to [open an issue](https://github.com/clubgamma/intro-git-github/issues/new) or contact the core team. We are glad to help you. :heart:
