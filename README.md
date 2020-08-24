@@ -2,6 +2,8 @@
 Hello there :wave:  
 These resources will help you get up and going with Git and GitHub.
 
+[Tutorial on how to create GitHub Account](https://youtu.be/p3IWEUe4D6s)
+
 ## Installation
 If you are a Windows user. Please download the following application to use the terminal in windows.
 - [Git Bash](https://git-scm.com/downloads)
@@ -19,6 +21,7 @@ $ git config --global user.name "Your github username"
 ```sh
 $ git config --global user.email "Your email"
 ```
+[Tutorial on how to install Git](https://youtu.be/5k7lKPllO-M)
 
 ### Install a Favorite editor of your choice :computer:
 You can install any of your favorite editor to start working on projects. I strongly recommend using VSCode, since it got a lot of Git integrations and plugins to help.
